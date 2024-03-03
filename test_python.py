@@ -1,2 +1,2 @@
-#Testing how to print the contents
-print ("First time printing output")
+#UPloading this file to Git hub
+print ("Upload worked as expected")
